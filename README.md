@@ -2,6 +2,6 @@
 
 Feel free to have a look at my past and ongoing projects.
 
-📫 How to reach me:
-[LinkedIn](https://linkedin.com/allyson-kouao)
-[Email](akouao@redhat.com)
+Find out more about me on my [website](akouao.github.io).
+
+📫 How to reach me: via [LinkedIn](https://linkedin.com/allyson-kouao) or [Email](akouao@redhat.com)
