@@ -2,7 +2,7 @@
 
 Feel free to have a look at my past and ongoing projects.
 
-Find out more about me on my [website](www.akouao.github.io).
+Find out more about me on my [website](https://akouao.github.io/).
 
 ## Find me around the web
 
