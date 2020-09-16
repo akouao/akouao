@@ -6,6 +6,6 @@ Find out more about me on my [website](akouao.github.io).
 
 ## Find me around the web
 
-On [LinkedIn](www.linkedin.com/in/allyson-kouao)
+On [LinkedIn](https://www.linkedin.com/in/allyson-kouao)
 
 By [Email](akouao@redhat.com)
