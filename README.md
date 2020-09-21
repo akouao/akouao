@@ -1,6 +1,4 @@
-# Hi, I'm Ally!
-
-Find out more about me on my [website](https://akouao.github.io/).
+## Hi, I'm Ally!
 
 Feel free to have a look at my past and ongoing projects.
 
