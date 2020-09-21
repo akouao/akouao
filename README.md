@@ -1,6 +1,6 @@
 ## Hi, I'm Ally!
 
-Feel free to have a look at my past and ongoing projects.
+Feel free to take a look at some of my past and ongoing projects.
 
 ## Connect with me on the interweb
 
